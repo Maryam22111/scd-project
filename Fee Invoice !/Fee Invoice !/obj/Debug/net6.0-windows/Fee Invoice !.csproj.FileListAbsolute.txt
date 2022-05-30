@@ -1,0 +1,39 @@
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.csproj.AssemblyReference.cache
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.csproj.GenerateResource.cache
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.AssemblyInfoInputs.cache
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.AssemblyInfo.cs
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.csproj.CoreCompileInputs.cache
+E:\Project\Fee Invoice !\Fee Invoice !\bin\Debug\net6.0-windows\Fee Invoice !.exe
+E:\Project\Fee Invoice !\Fee Invoice !\bin\Debug\net6.0-windows\Fee Invoice !.deps.json
+E:\Project\Fee Invoice !\Fee Invoice !\bin\Debug\net6.0-windows\Fee Invoice !.runtimeconfig.json
+E:\Project\Fee Invoice !\Fee Invoice !\bin\Debug\net6.0-windows\Fee Invoice !.dll
+E:\Project\Fee Invoice !\Fee Invoice !\bin\Debug\net6.0-windows\Fee Invoice !.pdb
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.dll
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\refint\Fee Invoice !.dll
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.pdb
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.genruntimeconfig.cache
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\ref\Fee Invoice !.dll
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Home.resources
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Properties.Resources.resources
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Pub.resources
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.About.resources
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Invoice.resources
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Form1.resources
+E:\Project\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Form2.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.About.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Form1.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Home.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Invoice.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Form2.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee_Invoice__.Pub.resources
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.dll
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\refint\Fee Invoice !.dll
+C:\Users\Administrator\Desktop\Fee Invoice !\Fee Invoice !\obj\Debug\net6.0-windows\Fee Invoice !.pdb
